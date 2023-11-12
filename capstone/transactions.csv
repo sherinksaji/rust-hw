@@ -1,0 +1,5 @@
+transaction_id,client_id,asset_name,transaction_start_date,transaction_end_date,country,amount
+1,100,Stocks,2023-01-01,2023-01-15,UnitedStates,500.0
+2,200,Bonds,2023-02-01,2023-02-28,Canada,1000.0
+3,300,RealEstate,2023-03-15,2023-04-15,Germany,1500.0
+4,Gaslight

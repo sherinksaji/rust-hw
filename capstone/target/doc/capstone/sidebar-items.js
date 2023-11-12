@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","print_transactions_by_continent"],"mod":["location","transaction"]};
